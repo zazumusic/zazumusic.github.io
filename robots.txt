@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zazumusic.github.io/sitemap.xml
